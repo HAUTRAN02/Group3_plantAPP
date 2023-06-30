@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Planting kingdom</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_likes">LIKES</string>
+<string name="msg_learn_many_plan">Learn Many Plants Species</string>
+<string name="msg_your_collected">Your Collected Plants</string>
+<string name="lbl_species">SPECIES</string>
+<string name="lbl_taylor_swift">Taylor Swift</string>
+<string name="lbl_02_01_2019">02 . 01 . 2019</string>
+<string name="lbl_next">NEXT</string>
+<string name="lbl_sign_up">SIGN UP</string>
+<string name="msg_you_can_identif">"You can identify the plants you don't know 
+through your camera"</string>
+<string name="lbl_plant">PLANT</string>
+<string name="lbl_home">HOME</string>
+<string name="msg_read_many_artic">Read Many Articles About Plant</string>
+<string name="msg_los_angeles_ca">Los Angeles, California</string>
+<string name="lbl_suket">SUKET</string>
+<string name="lbl_profile">PROFILE</string>
+<string name="msg_let_s_learn_abo">"Let's learn about the many plant species that 
+exist in this world"</string>
+<string name="lbl_articles">ARTICLES</string>
+<string name="lbl_gandul">GANDUL</string>
+<string name="lbl_welok">WELOK</string>
+<string name="msg_let_s_learn_mor">"Let's learn more about beautiful plants and read 
+many articles about plants and gardening"</string>
+<string name="lbl_alagatre_plant">Alagatre Plant</string>
+<string name="lbl_identify_plants">Identify Plants</string>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="specialHome">
+        <item>Rau củ</item>
+        <item>Cây nhiều lá</item>
+        <item>Trái cây</item>
+        <item>Hoa</item>
+        <item>Cây lá mọng</item>
+        <item>Cỏ dại</item>
+        <item>Cây thân gỗ</item>
+        <item>Cây có độc</item>
+    </string-array>
+
+
+    <string-array name="special">
+        <item>CACTUS</item>
+        <item>CISTUS</item>
+        <item>CAESALPINIA</item>
+        <item>CINNAMOMUM</item>
+        <item>CIRSIUM</item>
+        <item>CISSUS</item>
+        <item>DIERAMA</item>
+        <item>DIGITALIS</item>
+        <item>DAHLIA</item>
+        <item>DAPHNE</item>
+        <item>ECHINACEA</item>
+        <item>FICUS</item>
+        <item>ROSE</item>
+        <item> PEPEMO</item>
+
+    </string-array>
+
+    <string name="lbl_huge_plants">Huge Plants</string>
+    <string name="msg_2019_planthink">2019 ?Planthink. All rights reserved.</string>
+    <string name="msg_don_t_have_acco">Don\u2019t Have Account?</string>
+
+    <string name="lbl_hello_taylor">Hello</string>
+    <string name="lbl_login">LOGIN</string>
+    <string name="msg_search_for_plan">Search For Plants </string>
+    <string name="lbl_home2">HOME</string>
+    <string name="lbl_photography">Photography</string>
+    <string name="lbl_mini">#Mini</string>
+    <string name="lbl_cute">#Cute</string>
+    <string name="msg_68_types_of_pla">68 Types of Plants</string>
+    <string name="lbl_signup">SIGN UP</string>
+    <string name="lbl_register">REGISTER</string>
+
+    <string name="lbl_reset">RESET NOW</string>
+    <string name="lbl_email">EMAIL</string>
+    <string name="lbl_resetlabel">RESET PASSWORD</string>
+
+
+    <string name="lbl_home_plants">Home Plants</string>
+    <string name="lbl_password">Password</string>
+    <string name="msg_forgot_password">Forgot Password?</string>
+    <string name="lbl_hello">Hello</string>
+    <string name="msg_102_type_of_pla">102 Type Of Plants</string>
+    <string name="lbl_homely">#Homely</string>
+    <string name="lbl_identify">IDENTIFY</string>
+    <string name="lbl_plant_types">Plant Types</string>
+
+    <string name="lbl_username">Username</string>
+
+
+    <string name="lbl_remember_me">Remember me</string>
+    <string name="msg_please_enter_valid_pa">Please enter valid password</string>
+    <string name="msg_this_contact_has_no_phone_nu">This contact has no phone number</string>
+    <string name="msg_camera_storage_permission">This Application need permission\n1.Camera permission to capture the image.\n2.Storage Access permission to save the captured image.</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

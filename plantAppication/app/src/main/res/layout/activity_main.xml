@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    >
+
+<androidx.constraintlayout.widget.ConstraintLayout
+
+    android:layout_width="375dp"
+    android:layout_height="812dp"
+    tools:context=".MainActivity"
+    android:layout_gravity="center"
+    >
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="255.14dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="149dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="62dp"
+        android:background="@drawable/start1"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="140dp"
+        android:layout_height="23dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="117dp"
+        android:layout_marginTop="466dp"
+        android:layout_marginEnd="118dp"
+        android:layout_marginBottom="23dp"
+        android:gravity="center_horizontal|top"
+        android:text="Identify Plants"
+        android:textColor="#36455A"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/you_can_ide"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/you_can_ide"
+        android:layout_width="263dp"
+        android:layout_height="32dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="512dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginBottom="62dp"
+        android:alpha="0.8"
+        android:gravity="center_horizontal|top"
+        android:text="You can identify the plants you don't know through your camera"
+        android:textColor="#6A6F7D"
+        android:textSize="13sp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="7dp"
+        android:layout_height="7dp"
+        android:layout_marginStart="168dp"
+        android:layout_marginTop="606dp"
+        android:layout_marginEnd="9dp"
+        android:layout_marginBottom="47dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnNext"
+        app:layout_constraintEnd_toStartOf="@+id/imageView3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/elip1" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="7dp"
+        android:layout_height="7dp"
+        android:layout_marginStart="184dp"
+        android:layout_marginTop="606dp"
+        android:layout_marginEnd="9dp"
+        android:layout_marginBottom="47dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnNext"
+        app:layout_constraintEnd_toStartOf="@+id/imageView4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/elip2" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="7dp"
+        android:layout_height="7dp"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="606dp"
+        android:layout_marginEnd="168dp"
+        android:layout_marginBottom="47dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnNext"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/elip2" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnNext"
+        android:layout_width="329dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="23dp"
+        android:layout_marginTop="660dp"
+        android:layout_marginEnd="23dp"
+        android:layout_marginBottom="102dp"
+        android:background="#2DDA93"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="NEXT" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
